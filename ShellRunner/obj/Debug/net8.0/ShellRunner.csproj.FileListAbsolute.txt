@@ -1,0 +1,14 @@
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\bin\Debug\net8.0\ShellRunner.exe
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\bin\Debug\net8.0\ShellRunner.deps.json
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\bin\Debug\net8.0\ShellRunner.runtimeconfig.json
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\bin\Debug\net8.0\ShellRunner.dll
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\bin\Debug\net8.0\ShellRunner.pdb
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\ShellRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\ShellRunner.AssemblyInfoInputs.cache
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\ShellRunner.AssemblyInfo.cs
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\ShellRunner.csproj.CoreCompileInputs.cache
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\ShellRunner.dll
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\refint\ShellRunner.dll
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\ShellRunner.pdb
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\ShellRunner.genruntimeconfig.cache
+C:\Users\pwnnyz\source\repos\ShellRunner\ShellRunner\obj\Debug\net8.0\ref\ShellRunner.dll
